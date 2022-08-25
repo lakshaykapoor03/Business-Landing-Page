@@ -63,7 +63,7 @@ body {
 
 .btn-talk {
     position: absolute;
-    top: 46.3%;
+    top: 47.3%;
     right: 18%;
     width: 150px;
     height: 40px;
@@ -88,6 +88,7 @@ body {
 
 .img-2 {
     text-align: center;
+    margin-left: 500px;
 
 }
 
@@ -270,3 +271,103 @@ span {
     height: 300px;
     padding-top: 50px;
 }
+
+@media screen and (max-width: 768px) {
+
+    .nav-item{
+        display: none;
+    }
+
+    .logo{
+        width:100px;
+    }
+
+    .nav-btn{
+        position: absolute;
+        left:70%;
+    }
+
+    .nav-text {
+        display: flex;
+      flex-direction: column;
+       
+       
+    }
+
+    
+.btn-talk {
+    position: absolute;
+    top: 102%;
+    right: 10%;
+    width: 150px;
+    height: 40px;
+    background-color: #8bb7a2;
+    border: none;
+    color: #fff;
+}
+
+    
+
+.header-part {
+    background-color: #636c79;
+    color: #fff;
+    width: 100vw;
+    font-family: 'Poppins';
+    height: 1000px;
+    padding-left: 50px;
+}
+
+.header-text2{
+    padding-right: 40px;
+}
+
+.header-text{
+    width: 400px;
+}
+
+.img-2 {
+   width:400px;
+margin-left: 40px;
+}
+
+.photo-text {
+    display: flex;
+    flex-direction: column;
+    gap:30px;
+    margin-top: 80px;
+    width: 1500px;
+}
+
+.team-section {
+    display: grid;
+    grid-template-columns: auto;
+    padding-left: 30px;
+}
+
+
+.api {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    padding-left: 20px
+    ;
+    font-family: 'Poppins';
+
+
+    }
+
+    .see-btn {
+        margin-left: 35%;
+    }
+
+    
+.link-boxes {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+    
+
+}
+    
