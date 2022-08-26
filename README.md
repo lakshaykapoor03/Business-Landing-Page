@@ -20,6 +20,6 @@ I learned about flexbox property of CSS in which I learned about flex-row and fl
 
 ## Project Live Link:
 
-[Live Link !](https://businesslanding12.netlify.app/):)
+[Live Link ](https://businesslanding12.netlify.app/):)
 
 
